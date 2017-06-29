@@ -1,1 +1,3 @@
-another simple script that adds a button to detonate yourself upon tapping. please don't abuse this in survival if you don't want to die
+<a href="http://www.somsubhra.com/github-release-stats/?username=Whatevr&repository=elytrabooster"><img src="https://img.shields.io/github/downloads/Whatevr/elytrabooster/total.svg"></a>&nbsp;&nbsp;
+</p>
+i mean like srsly this is so cringey
